@@ -12,7 +12,7 @@
     "dns": "^0.2.2",
     "ejs": "*",
     "ejs-locals": "^1.0.2",
-    "express": "^3.4.0",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "express-useragent": "^1.0.13",
     "iconv-lite": "^0.4.24",
